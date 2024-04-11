@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Go lang**
 
-- 📝 I regularly write articles on [t.me/mostafaArshadi](t.me/mostafaArshadi)
+- 📝 I regularly write articles on [https://t.me/mostafaArshadi](t.me/mostafaArshadi)
 
 - 💬 Ask me about **Python or anything you want.**
 
-- 📫 How to reach me **t.me/mosishon or mostafa.arshadi@outlook.com**
+- 📫 How to reach me **[https://t.me/mosishon](@mosishon) or mostafa.arshadi@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
