@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosishon&label=Profile%20views&color=0e75b6&style=flat" alt="mosishon" /> </p>
 
-- 🔭 I’m currently working on [backend of a shop](https://github.com/mosishon/shop-backend)
+- 🔭 I’m currently working on [Backend of a shop](https://github.com/mosishon/shop-backend)
 
 - 🌱 I’m currently learning **Go lang**
 
@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mosishon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mosishon" height="30" width="40" /></a>
+<a href="https://instagram.com/mosishon" target="blank"><img align="center" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/instagram.svg" alt="mosishon" height="30" width="40" /></a>
+  <a href="https://t.me/mosishon" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg" alt="mosishon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
