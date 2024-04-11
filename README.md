@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python or anything you want.**
 
-- 📫 How to reach me **[https://t.me/mosishon](@mosishon) or mostafa.arshadi@outlook.com**
+- 📫 How to reach me **[@mosishon](https://t.me/mosishon) or [mostafa.arshadi@outlook.com](mailto:mostafa.arshadi@outlook.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
