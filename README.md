@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go lang**
 
-- 📝 I regularly write articles on [mosTafa Arshadi](t.me/mostafaArshadi)
+- 📝 I regularly write articles on [mosTafa Arshadi](https://t.me/mostafaArshadi)
 
 - 💬 Ask me about **Python or anything you want.**
 
