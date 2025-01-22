@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosishon&label=Profile%20views&color=0e75b6&style=flat" alt="mosishon" /> </p>
 
-- 🔭 I’m currently working on (go-restaurant-backend)[https://github.com/mosishon/go-restaurant-backend]
+- 🔭 I’m currently working on [go-restaurant-backend](https://github.com/mosishon/go-restaurant-backend)
 
 - 🌱 I’m currently learning **Go lang**
 
